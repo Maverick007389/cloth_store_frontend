@@ -3,7 +3,7 @@ import { Link, withRouter } from "react-router-dom";
 
 const currentTab = (history, path) => {
   if (history.location.pathname === path) {
-    return { color: "#22CB5C" };
+    return { color: "#1FAA59" };
   } else {
     return { color: "#FFFFFF" };
   }
