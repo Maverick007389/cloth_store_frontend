@@ -21,10 +21,10 @@ const Base = ({
       </div>
       <div className={className}>{children}</div>
     </div>
-    <footer className="footer bg-dark mt-auto py-3">
-      <div className="container-fluid bg-success text-white text-center py-3">
-        <h5>If you got any questions, feel free to reach out!</h5>
-        <button className="btn btn-warning btn-lg">Contact Us</button>
+    <footer className="footer bg-dark mt-auto py-10">
+      <div className="container-fluid bg-success text-white text-center py-10">
+        <h6>If you got any questions, feel free to reach out!</h6>
+        <button className="btn btn-warning btn-sm">Contact Us</button>
       </div>
       <div className="container">
         <span className="text-white">
