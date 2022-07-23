@@ -1,7 +1,7 @@
 .btn,
 .jumbotron,
 .nav :hover {
-  border-radius: 50px;
+  border-radius: 0px;
 }
 
 body {
@@ -9,7 +9,7 @@ body {
 }
 
 footer{
-  position: absolute;
+  position: relative;
   bottom: 0px;
   left: 0px;
   right: 0px;
